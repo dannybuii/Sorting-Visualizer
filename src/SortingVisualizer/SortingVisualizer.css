@@ -8,5 +8,19 @@
   background-color: #28cd7e;
   display: inline-block;
   height: 1px;
-  margin: 0px 1px;
+  margin: 0px 10px;
+}
+
+@media all and (max-width: 500px) {
+  .array-container {
+    border: black;
+  }
+
+  .array-bar {
+    width: 2.5px;
+    background-color: #28cd7e;
+    display: inline-block;
+    height: -1px;
+    margin: 0px -5px;
+  }
 }
