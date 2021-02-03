@@ -4,10 +4,10 @@
 }
 
 .array-bar {
-  width: 5px;
+  width: 3px;
   background-color: #28cd7e;
   display: inline-block;
-  height: 1px;
+  height: auto;
   margin: 0px 10px;
 }
 
