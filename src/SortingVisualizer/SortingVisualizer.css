@@ -4,11 +4,10 @@
 }
 
 .array-bar {
-  width: 3px;
+  width: 2px;
   background-color: #28cd7e;
   display: inline-block;
-  height: auto;
-  margin: 0px 10px;
+  margin: 0px 1px;
 }
 
 @media all and (max-width: 500px) {
